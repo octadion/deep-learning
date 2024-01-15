@@ -8,7 +8,7 @@ This repository contains various deep learning projects, demonstrating the appli
 ### Project 1 : [Dog Cat Classification using EfficientNetV2](./Dog%Cat%Classification%using%EfficientNetV2/HW_DAY5_One_Octadion.ipynb)
 This project uses the EfficientNetV2 model to classify images into two categories: dogs and cats. The model is trained on a dataset of dog and cat images and aims to accurately predict the animal present in a given image.
 
-### Project 2: [Dog Cat Classification using EfficientNetV2 with PCA](./Dog%Cat%Classification%using%EfficientNetV2%with PCA/HW_DAY6_One_Octadion.ipynb)
+### Project 2: [Dog Cat Classification using EfficientNetV2 with PCA](./Dog%Cat%Classification%using%EfficientNetV2%with%PCA/HW_DAY6_One_Octadion.ipynb)
 This project extends the previous one by incorporating Principal Component Analysis (PCA) to reduce the dimensionality of the data. This can potentially improve the model’s performance by focusing on the most important features of the images.
 
 ### Project 3: [Sentiment Analysis using DNN](./Sentiment%Analysis%using%DNN/PR_day20_One_Octadion.ipynb)
